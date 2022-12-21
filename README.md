@@ -1,6 +1,6 @@
 ### Olá eu sou o Vitor, seja bem vindo ao meu perfil!
 
-<h6>Focando em ser desenvolvedor Back-end, pretendo atuar na área e busco uma oportunidade para um possível estágio, acompanhe aqui alguns  de meus
+<h6>Pretendo atuar na área e busco uma oportunidade para um possível estágio, acompanhe aqui alguns  de meus
 projetos e contibuições para a comunidade. 😄</h6> 
 <br>
 

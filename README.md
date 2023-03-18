@@ -23,4 +23,4 @@ projetos e contibuições para a comunidade. 😄</h6>
   <br>
   
   <h5>• 2/4 em Análise e desenvolvimento de Sistemas <br>
-  • Atualmente estudando Banco de dados e uso do MySQL</h5>
+  • Atualmente estudando MySQL e Node.js</h5>

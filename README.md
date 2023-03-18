@@ -17,7 +17,6 @@ projetos e contibuições para a comunidade. 😄</h6>
   <img align="center" alt="GIT" height="30" width="40" src="https://devicons.railway.app/i/react.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://devicons.railway.app/i/bootstrap.svg">
   <img align="center" alt="jQuery" height="30" width="40" src="https://devicons.railway.app/i/jquery.svg"> 
-  <img align="center" alt="VScode" height="30" width="40" src="https://devicons.railway.app/i/visual-studio-code.svg"> 
   
 </div>
   

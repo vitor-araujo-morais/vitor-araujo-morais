@@ -1,8 +1,7 @@
 ### Olá eu sou o Vitor, seja bem vindo ao meu perfil!
 
-<h6>Pretendo atuar na área e busco uma oportunidade para um possível estágio, acompanhe aqui alguns  de meus
-projetos e contibuições para a comunidade. 😄</h6> 
-<br>
+Amante de tecnologias, estou sempre procurando aprender e evoluir meus conhecimentos. Gosto de desafios e de resolver problemas, procurando sempre a solução mais viável.
+    Estou no terceiro semestre em Análise e Desenvolvimento de Sistemas, já cursei desenvolvimento em jogos e também informática avançada, atualmente estou estudando o uso do Angular em meus projetos. Também tenho uma grande afinidade para área de desenvolvimento web, mais especificamente com Node.js e php para BACK-END e também tenho  projetos no FRONT-END que fiz com React com bootstrap e JQuery. Alguns dos projetos que desenvolvi estão disponíveis no meu Github!
 
 
           

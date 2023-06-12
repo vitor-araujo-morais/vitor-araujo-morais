@@ -20,5 +20,4 @@ Amante de tecnologias, estou sempre procurando aprender e evoluir meus conhecime
   
   <br>
   
-  <h5>• 2/4 em Análise e desenvolvimento de Sistemas <br>
-  • Atualmente estudando MySQL e Node.js</h5>
+  <h5>• 3/4 em Análise e desenvolvimento de Sistemas <br>
